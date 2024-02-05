@@ -1,24 +1,11 @@
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=4000&pause=10&color=58EDFF&center=true&random=false&width=435&lines=+Hi+There!!%F0%9F%91%8B;I'm+Douglas!+" alt="Typing SVG" /></a>
+
 </h1>
-
- <hr/>
-
-
-
-
-<h3 align="center">A passionate software developer from Brazil </h3>
 
 <br/>
 
 <div align="center">
-
- 💬  I like classical music and phonk
-
-  🔭 Right now, I'm engaged in the creation of **a Game**.
- 
- 🌱 I’m currently learning **Java, 3d modeling & audio design**
 
  **Contact**:
  
