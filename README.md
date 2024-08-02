@@ -46,13 +46,5 @@
 
 <hr/>
 
-<h1 align="center"> 🐌 Links </h1>
-<h1 align="center">
-
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@G7Gz1)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/088397/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iujyb9rt2n9wsxl3njpi8sl2n)
-
 </h1>
 
