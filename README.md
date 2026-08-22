@@ -6,7 +6,6 @@
 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglas42-ui&radius=16&theme=redical&area=false&hide_border=true&line=F12A37&point=91040D&color=E1E1E1" height="290" alt="activity graph"  />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=douglas42-ui)](https://git.io/streak-stats)
 </div>
 
 
